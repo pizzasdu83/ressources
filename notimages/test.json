@@ -1,6 +1,6 @@
 {
     "name": "test",
-    "description": "this is a test 7",
+    "description": "this is a test 8",
     "authors": [
         {
             "name": "SaaS",
@@ -18,7 +18,7 @@
             "#e800e8"
         ],
         "TEXT_MUTED": [
-            "#888888"
+            "#000098"
         ],
         "TEXT_DANGER": [
             "#FF0075"
@@ -27,7 +27,7 @@
             "#5357FF"
         ],
         "INTERACTIVE_NORMAL": [
-            "#b8b8b8"
+            "#b800b8"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
