@@ -1,6 +1,6 @@
 {
     "name": "test",
-    "description": "this is a test 6",
+    "description": "this is a test 7",
     "authors": [
         {
             "name": "SaaS",
@@ -18,7 +18,7 @@
             "#e800e8"
         ],
         "TEXT_MUTED": [
-            "#b8b800"
+            "#888888"
         ],
         "TEXT_DANGER": [
             "#FF0075"
@@ -105,9 +105,9 @@
     "rawColors": {
         "PRIMARY": "#282978",
         "PRIMARY_100": "#ffffff",
-        "PRIMARY_200": "#b8b8b8",
+        "PRIMARY_200": "#b800b8",
         "PRIMARY_300": "#5357FF",
-        "PRIMARY_360": "#b8b8b8",
+        "PRIMARY_360": "#b800b8",
         "PRIMARY_400": "#5357FF",
         "PRIMARY_500": "#373a9e",
         "PRIMARY_600": "#282978",
