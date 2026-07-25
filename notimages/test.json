@@ -1,6 +1,6 @@
 {
     "name": "test",
-    "description": "this is a test 5",
+    "description": "this is a test 6",
     "authors": [
         {
             "name": "SaaS",
@@ -9,19 +9,19 @@
         ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#ffffff"
+            "#00ffff"
         ],
         "HEADER_SECONDARY": [
-            "#b8b8b8"
+            "#b800b8"
         ],
         "TEXT_NORMAL": [
-            "#e8e8e8"
+            "#e800e8"
         ],
         "TEXT_MUTED": [
-            "#b8b8b8"
+            "#b8b800"
         ],
         "TEXT_DANGER": [
-            "#5357FF"
+            "#FF0075"
         ],
         "TEXT_LINK": [
             "#5357FF"
