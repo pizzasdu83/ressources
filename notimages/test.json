@@ -1,6 +1,6 @@
 {
     "name": "test",
-    "description": "this is a test 2",
+    "description": "this is a test 3",
     "authors": [
         {
             "name": "SaaS",
@@ -132,7 +132,7 @@
     },
   "background": {
     "blur": 0,
-    "url": "https://raw.githubusercontent.com/pizzasdu83/ressources/refs/heads/main/bg/my.png",
+    "url": "https://raw.githubusercontent.com/pizzasdu83/ressources/refs/heads/main/bg/myphone.png",
     "alpha": 0.63
   },
     "plus": {
