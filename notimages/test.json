@@ -1,6 +1,6 @@
 {
     "name": "test",
-    "description": "this is a test 9",
+    "description": "this is a test 10",
     "authors": [
         {
             "name": "SaaS",
@@ -36,7 +36,7 @@
             "#ff00ff"
         ],
         "INTERACTIVE_MUTED": [
-            "#960096"
+            "#a600a6"
         ],
         "BACKGROUND_PRIMARY": [
             "#282978"
@@ -103,7 +103,7 @@
         ]
     },
     "rawColors": {
-        "PRIMARY": "#282978",
+        "PRIMARY": "#e800e8",
         "PRIMARY_100": "#ff00ff",
         "PRIMARY_200": "#b800b8",
         "PRIMARY_300": "#5357FF",
