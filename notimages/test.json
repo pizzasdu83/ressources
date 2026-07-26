@@ -1,6 +1,6 @@
 {
     "name": "test",
-    "description": "this is a test 8",
+    "description": "this is a test 9",
     "authors": [
         {
             "name": "SaaS",
@@ -18,7 +18,7 @@
             "#e800e8"
         ],
         "TEXT_MUTED": [
-            "#000098"
+            "#0000a8"
         ],
         "TEXT_DANGER": [
             "#FF0075"
@@ -33,10 +33,10 @@
             "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffffff"
+            "#ff00ff"
         ],
         "INTERACTIVE_MUTED": [
-            "#969696"
+            "#960096"
         ],
         "BACKGROUND_PRIMARY": [
             "#282978"
@@ -104,7 +104,7 @@
     },
     "rawColors": {
         "PRIMARY": "#282978",
-        "PRIMARY_100": "#ffffff",
+        "PRIMARY_100": "#ff00ff",
         "PRIMARY_200": "#b800b8",
         "PRIMARY_300": "#5357FF",
         "PRIMARY_360": "#b800b8",
