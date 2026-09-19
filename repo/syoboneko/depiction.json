@@ -1,6 +1,6 @@
   {
     "minVersion": "0.1",
-    "headerImage": "https://raw.githubusercontent.com/pizzasdu83/syoboneko/refs/heads/main/syoboneko.png",
+    "headerImage": "https://raw.githubusercontent.com/pizzasdu83/ressources/refs/heads/main/repo/syoboneko/head.png",
     "class": "DepictionTabView",
     "tintColor": "#AAE5A4",
     "tabs": [
