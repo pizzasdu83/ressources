@@ -1,0 +1,79 @@
+  {
+    "minVersion": "0.1",
+    "headerImage": "https://raw.githubusercontent.com/pizzasdu83/ressources/refs/heads/main/repo/slipperybatt/head.png",
+    "class": "DepictionTabView",
+    "tintColor": "#AAE5A4",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "Slippery Batt",
+                    "useBoldText": true
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Recolor the battery (simple color and gradient) and more :)"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://raw.githubusercontent.com/pizzasdu83/ressources/refs/heads/main/Screenshots/slipbat1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://raw.githubusercontent.com/pizzasdu83/ressources/refs/heads/main/Screenshots/slipbat2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://raw.githubusercontent.com/pizzasdu83/ressources/refs/heads/main/Screenshots/slipbat3.png"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "SaaS",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        },
+        {
+            "views": [
+                {
+                    "text": "Sept 24, 2026",
+                    "class": "DepictionTableTextView",
+                    "title": "Version 0.1.0"
+                },
+                {
+                    "markdown": "- Initial release on the repo",
+                    "class": "DepictionMarkdownView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Changelog"
+        }
+    ]
+}
