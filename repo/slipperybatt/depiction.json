@@ -25,6 +25,7 @@
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 },
+                /*
                 {
                     "screenshots": [
                         {
@@ -44,6 +45,7 @@
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 6
                 },
+                */
                 {
                     "class": "DepictionSeparatorView"
                 },
