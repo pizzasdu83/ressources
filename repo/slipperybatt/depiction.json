@@ -18,6 +18,11 @@
                     "markdown": "Recolor the battery (simple color and gradient) and more :)"
                 },
                 {
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "# You NEED to disable the "Battery percentage" switch in the bettery settings.
+                },
+                {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 },
