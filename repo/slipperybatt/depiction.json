@@ -6,21 +6,20 @@
     "tabs": [
         {
             "views": [
-                {
+              {
+                "class": "DepictionHeaderView",
+                "title": "Slippery Batt"
+              },
+              {
                     "class": "DepictionSubheaderView",
                     "useBottomMargin": false,
-                    "title": "Slippery Batt",
+                    "title": "You NEED to disable the "Battery percentage" switch in the bettery settings.",
                     "useBoldText": true
                 },
                 {
                     "useSpacing": true,
                     "class": "DepictionMarkdownView",
                     "markdown": "Recolor the battery (simple color and gradient) and more :)"
-                },
-                {
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView",
-                    "markdown": "# You NEED to disable the "Battery percentage" switch in the bettery settings.
                 },
                 {
                     "spacing": 8,
